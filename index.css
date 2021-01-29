@@ -99,6 +99,11 @@ footer span a{
     vertical-align:top;
     line-height: 50px;
 }
+.construccion{
+    text-align: center;
+    color: teal;
+    font-size: x-large;
+}
 
 @media(min-width:300px){
     .logo{
